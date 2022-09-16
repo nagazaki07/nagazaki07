@@ -15,3 +15,4 @@ Gosto de musica pop, eletronica.
 Jogo LOL nas horas vagas.
 é isso minha vida é entediante.
 
+![](lol.gif)
